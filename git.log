@@ -1,1 +1,17 @@
 nohup: ignoring input
+Already up-to-date.
+[master f11ec7f] update rank
+ Committer: root <root@vultr.guest>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 git.log
