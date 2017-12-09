@@ -1,8 +1,0 @@
-nohup: ignoring input
-Warning: Permanently added the RSA host key for IP address '192.30.255.113' to the list of known hosts.
-Already up-to-date.
-[master 9564ded] update rank
- 1 file changed, 1 insertion(+)
- create mode 100644 git.log
-To git@github.com:mingzuozhibi/mzzb-rank-bottle.git
-   936e6e5..9564ded  master -> master
